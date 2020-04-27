@@ -1,0 +1,9 @@
+单词序号	单词的值	单词类型	单词所在行 	单词是否合法	单词属性
+1		void		关键字			1	true			null
+2		main		关键字			1	true			null
+3		(		界符			1	true			null
+4		)		界符			1	true			null
+5		{		界符			1	true			null
+6		}		界符			2	true			null
+7		#		结束符			3	true			null
+词法分析通过：
